@@ -1,3 +1,5 @@
 # Notas
 
-Repositorio de custom hooks para ser utilizados en otros proyectos de react
+Este repositorio contiene varios customHooks para ayudarme a mi y a quien le sirva, estos hooks.
+
+También la idea es que yo no quiero volver a escribirlos!
